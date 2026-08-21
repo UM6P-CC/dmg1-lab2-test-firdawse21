@@ -8,6 +8,7 @@ on:
 jobs:
   grade:
     uses: "UM6P-CC/classroom50/.github/workflows/autograde-runner.yaml@main"
+    secrets: inherit
     permissions:
       contents: write
       statuses: write
