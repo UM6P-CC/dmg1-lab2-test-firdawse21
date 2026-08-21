@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "dmg1"
+assignment: "lab2-test"
+owner:
+  username: "firdawse21"
+  id: 159532273
+  accepted_at: "2026-08-21T07:37:20Z"
+source:
+  owner: "UM6P-CC"
+  owner_id: 231446913
+  repo: "um6p-cc-databases-26-lab-0-DM1-1"
+  branch: "main"
